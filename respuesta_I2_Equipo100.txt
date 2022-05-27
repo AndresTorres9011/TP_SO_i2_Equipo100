@@ -1,3 +1,7 @@
 Kevin Condori - ALFA
 Marcos Laporte - BETA
 Andrés Felipe Torres Caicedo - GAMMA
+
+
+a. Pirmero voy  a mi repositorio que forkee, desde la interfaz web de github y le doy click en el comando fetch upstream abre un menu de opciones, le doy click en compare y muestra los cambios que se hicieron en el repo original despues le doy click en donde dice fetch and merge. Seguidamente abro la consola de git en el compu y escribo el comando git pull para actualizar el repo.
+b.Alfa no puede actualizar el fork al estado del fork de Gamma porque el due;o del repo original es Beta.
